@@ -7,7 +7,7 @@
   <version>0.1.0-SNAPSHOT</version>
 
   <name>Black Duck Example for GH</name>
-  <description>Provide an example of configuring a Maven project to use the Black Duck custom scan action9</description>
+  <description>Provide an example of configuring a Maven project to use the Black Duck custom scan action10</description>
   <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
   <inceptionYear>2017</inceptionYear>
 
